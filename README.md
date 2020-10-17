@@ -1,8 +1,11 @@
 # Webtech Node and Express examples
 
-Prerequisites: 
+Prerequisites:
+
 [Git](https://git-scm.com/downloads)
+
 [VS Code](https://code.visualstudio.com/)
+
 [Node.js](https://nodejs.org/en/)
 
 Instructiuni:
