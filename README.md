@@ -1,5 +1,7 @@
 # Webtech Node and Express examples
 
+![Some meme](https://i.imgur.com/kyBs9Zn.png)
+
 Prerequisites:
 
 [Git](https://git-scm.com/downloads)
