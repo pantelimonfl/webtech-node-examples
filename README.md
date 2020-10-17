@@ -1,7 +1,9 @@
 # Webtech Node and Express examples
 
 Prerequisites: 
-Git, Node, VS Code or any other IDE you like
+[Git](https://git-scm.com/downloads)
+[VS Code](https://code.visualstudio.com/)
+[Node.js](https://nodejs.org/en/)
 
 Instructiuni:
 1. Clonati repo-ul pe masina voastra locala.
