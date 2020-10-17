@@ -67,8 +67,6 @@ app.post('/api/students/add', (req,res)=>{
     res.send(studentsList)
 })
 
-app.delete('/api/students/:id')
-
 app.listen(port, () => {
     console.log(`Listening on ${port}`)
 })
