@@ -13,7 +13,7 @@ Prerequisites:
 Instructiuni:
 1. Clonati repo-ul pe masina voastra locala.
 2. Deschideti VS Code si deschideti folderul in care ati clonat repo-ul.
-3. Deschideti terminalul si rulati ```npm start``` , astfel incat toate pachetele sa fie descarcate.
+3. Deschideti terminalul si rulati ```npm install``` , astfel incat toate pachetele sa fie descarcate.
 4. Rulati aplicatia cu ```node app.js```.
 5. Deschideti Postman si creati request-uri catre localhost:8000
 
